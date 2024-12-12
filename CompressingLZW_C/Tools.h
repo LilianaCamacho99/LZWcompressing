@@ -1,9 +1,10 @@
-// ------------------------------------------
-// Miguel Ángel Pérez Ávila A01369908   25/09/2024 - Algoritmos Avanzados
-// 
-//  GitHub: https://github.com/TGMAPA
-//
+// --------Algoritmos Avanzados-------------
+// Miguel Ángel Pérez Ávila A01775262
+
+// Liliana Camacho Suarez  A01369125
 //  "Compresión-LZW para archivos"
+//
+//
 //
 // Compilado en:
 //		- Ubuntu  - g++ 9.5.0
