@@ -1,3 +1,11 @@
+// --------Algoritmos Avanzados-------------
+// Miguel Ángel Pérez Ávila A01775262
+
+// Liliana Camacho Suarez  A01369125
+//  "Compresión-LZW para archivos"
+//
+//
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
